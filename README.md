@@ -37,9 +37,9 @@ A new issue will be updated every day (or > 1 a day) so be active and contribute
    
 *Spelling must be correct and fonts too*
 
-6) Check if these two labels got added to the existing labels
-7) Go back to issues tab
-8) New issue
-9) Give a title and description
-10) Wait for a pull request to come
-11) Merge it and then the person will successfully complete 1 PR
+6)  Check if these two labels got added to the existing labels.
+7)  Go back to issues tab.
+8)  New issue.
+9)  Give a title and description.
+10) Wait for a pull request to come.
+11) Merge it and then the person will successfully complete 1 PR.
